@@ -7,4 +7,8 @@ Horse.prototype.run = function(){
 Horse.prototype.fly = function(){
 	console.log("Flying...");
 }
+
+// commit cam ki
 module.exports = Horse;
+
+// commit thua thai
