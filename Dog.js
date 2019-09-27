@@ -6,8 +6,7 @@ Dog.prototype.eat = function(cat){
 	this.stomach.push(cat);
 };
 
-Dog.prototype.sleep = function(){
-	console.log('Sleeping...');
+Dog.prototype.bite = function(){
+	console.log('Gru gru...');
 };
-
 module.exports = Dog;
